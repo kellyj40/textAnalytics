@@ -1,0 +1,62 @@
+
+R version 3.4.1 (2017-06-30) -- "Single Candle"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[R.app GUI 1.70 (7375) x86_64-apple-darwin15.6.0]
+
+[History restored from /Users/joekelly/.Rapp.history]
+
+> wordSentence <- "May our children and our children's children to a thousand generations, continue to enjoy the benefits conferred upon us by a united country, and have cause yet to rejoice under those glorious institutions bequeathed us by Washington and his compeers."
+> sapply(gregexpr("\\W+", wordSentence), length) + 1  
+[1] 42
+> library(stringr)
+> stringWordsSplit < stringWordsSplit <- str_split(wordSentence, pattern="\\s+")
+Error in stringWordsSplit < stringWordsSplit <- str_split(wordSentence,  : 
+  object 'stringWordsSplit' not found
+> stringWordsSplit <- stringWordsSplit <- str_split(wordSentence, pattern="\\s+")
+> library(stringr)
+> stringWordsSplit <- str_split(wordSentence, pattern="\\s+")
+> stringWordsSplit <- unlist(stringWordsSplit)
+> unique(stringWordsSplit)
+ [1] "May"          "our"          "children"     "and"          "children's"  
+ [6] "to"           "a"            "thousand"     "generations," "continue"    
+[11] "enjoy"        "the"          "benefits"     "conferred"    "upon"        
+[16] "us"           "by"           "united"       "country,"     "have"        
+[21] "cause"        "yet"          "rejoice"      "under"        "those"       
+[26] "glorious"     "institutions" "bequeathed"   "Washington"   "his"         
+[31] "compeers."   
+> library(cloudword)
+Error in library(cloudword) : there is no package called ‘cloudword’
+> library(wordcloud)
+Loading required package: RColorBrewer
+> wordcloud(wordSentence)
+Loading required package: tm
+Loading required package: NLP
+> wordcloud(wordSentence,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+> wordcloud(wordSentence,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+> newWords <- "For the tree kernel based model we design a new tree representation for tweets. We use a unigram model, previously shown to work well for sentiment analysis for Twitter data, as our baseline"
+> wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+> newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show all tweets but not only your ones but also tweets carried out by other users."
+> wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+> newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show all tweets but not only your ones but also tweets carried out by other users. Is this still working or should I be using other words to make the models perform analysis on the whole text or will it just be on the sentence about tweets"
+> wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+> newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show all tweets but not only your ones but also tweets carried out by other users. Is this still working or should I be using other words to make the models perform analysis on the whole text or will it just be on the sentence about models"
+> wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+> newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show all tweets but not only your ones but also tweets carried out by other users. Is this still working or should I be using other words to make the models perform analysis on the whole text or will it just be on the sentence about models and more models to show again"
+> wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+> newWords <- "If you write a tweet, and then look at your tweets the twitter feed will it show tweets but not only your ones but also carried out by other users. Is this still working or should I be using other words to make the models perform analysis on the whole text or will it just be on the sentence about models and more models to show again"

@@ -10,14 +10,14 @@ def openFile(file_path_name):
 
 paragraph = openFile("nltk_file2.txt")
 
-
 token_words = nltk.word_tokenize(paragraph)
 
-# porter stemming the words
-stemmer = nltk.PorterStemmer()
-stem_words = [stemmer.stem(wd) for wd in token_words]
-print(token_words)
-print(stem_words)
+# # porter stemming the words
+# stemmer = nltk.PorterStemmer()
+# stem_words = [stemmer.stem(wd) for wd in token_words]
+# print(token_words)
+# print(stem_words)
+
 
 '''
 Stemming the words has caused more mistakes
@@ -35,10 +35,6 @@ Stemming the words has caused more mistakes
 pos_words = nltk.pos_tag(token_words)
 lem_words = nltk.ne_chunk(pos_words, binary=True)
 print(lem_words)
-
-
-
-
 
 
 

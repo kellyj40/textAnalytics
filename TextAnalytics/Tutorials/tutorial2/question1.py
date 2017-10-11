@@ -5,6 +5,9 @@
 import nltk
 
 
+# list_words = ["Hello", "lower", "Upper"]
+# list_words_lower = [ word.lower for word in list_words]
+
 '''
 Another method to read in from file
 file = open("directory/to/file")
@@ -43,5 +46,9 @@ print(token_words)
 
 token_words = nltk.pos_tag(token_words)
 print(token_words)
+
+
+
+
 
 
