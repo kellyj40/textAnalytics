@@ -1,0 +1,493 @@
+wordcloud(stringName,colours=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity.#
+Just like Bitcoin, these apps run on a custom-built blockchain – a shared global infrastructure that can move value around with, so its proponents argue, total transparency.#
+Whether it is to create markets, store registries of debts and promises, or move funds in accordance to instructions, the blockchain can execute everything from someone’s last will and testament to futures contracts to proof of ownership of a house. It is a single source of truth that does away with the need for a middleman.#
+Referred to as the second generation of the internet, all this disintermediation presents a revolutionary opportunity to get a whole range of things done with vastly reduced complexity – and at significantly reduced cost.#
+The implications for payments are clear as well. At present, one of the core functions of a bank is to act as a clearinghouse for the execution of payments. What the blockchain offers is a way to do away with all transactions that involve mirror entities, such as bank reconciliations, which would help to lower costs and reduce the risk of money laundering.#
+The technology provides for new kinds of payments in the construction industry, with large, consortia-based projects run on the basis of all parties having accurate, up-to-date, verifiable information in relation to the supply of various construction processes and the execution of staged payments.",colours=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity",colours=brewer.pal(6,"Dark2"), random.order=FALSE)
+library(wordcloud)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity.#
+Just like Bitcoin, these apps run on a custom-built blockchain – a shared global infrastructure that can move value around with, so its proponents argue, total transparency.#
+Whether it is to create markets, store registries of debts and promises, or move funds in accordance to instructions, the blockchain can execute everything from someone’s last will and testament to futures contracts to proof of ownership of a house. It is a single source of truth that does away with the need for a middleman.#
+Referred to as the second generation of the internet, all this disintermediation presents a revolutionary opportunity to get a whole range of things done with vastly reduced complexity – and at significantly reduced cost.#
+The implications for payments are clear as well. At present, one of the core functions of a bank is to act as a clearinghouse for the execution of payments. What the blockchain offers is a way to do away with all transactions that involve mirror entities, such as bank reconciliations, which would help to lower costs and reduce the risk of money laundering.#
+The technology provides for new kinds of payments in the construction industry, with large, consortia-based projects run on the basis of all parties having accurate, up-to-date, verifiable information in relation to the supply of various construction processes and the execution of staged payments.",colours=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity.#
+Just like Bitcoin, these apps run on a custom-built blockchain – a shared global infrastructure that can move value around with, so its proponents argue, total transparency.#
+Whether it is to create markets, store registries of debts and promises, or move funds in accordance to instructions, the blockchain can execute everything from someone’s last will and testament to futures contracts to proof of ownership of a house. It is a single source of truth that does away with the need for a middleman.#
+Referred to as the second generation of the internet, all this disintermediation presents a revolutionary opportunity to get a whole range of things done with vastly reduced complexity – and at significantly reduced cost.#
+The implications for payments are clear as well. At present, one of the core functions of a bank is to act as a clearinghouse for the execution of payments. What the blockchain offers is a way to do away with all transactions that involve mirror entities, such as bank reconciliations, which would help to lower costs and reduce the risk of money laundering.#
+The technology provides for new kinds of payments in the construction industry, with large, consortia-based projects run on the basis of all parties having accurate, up-to-date, verifiable information in relation to the supply of various construction processes and the execution of staged payments.",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity.#
+Just like Bitcoin, these apps run on a custom-built blockchain – a shared global infrastructure that can move value around with, so its proponents argue, total transparency.#
+Whether it is to create markets, store registries of debts and promises, or move funds in accordance to instructions, the blockchain can execute everything from someone’s last will and testament to futures contracts to proof of ownership of a house. It is a single source of truth that does away with the need for a middleman.#
+Referred to as the second generation of the internet, all this disintermediation presents a revolutionary opportunity to get a whole range of things done with vastly reduced complexity – and at significantly reduced cost.#
+The implications for payments are clear as well. At present, one of the core functions of a bank is to act as a clearinghouse for the execution of payments. What the blockchain offers is a way to do away with all transactions that involve mirror entities, such as bank reconciliations, which would help to lower costs and reduce the risk of money laundering.#
+The technology provides for new kinds of payments in the construction industry, with large, consortia-based projects run on the basis of all parties having accurate, up-to-date, verifiable information in relation to the supply of various construction processes and the execution of staged payments.",colors=brewer.pal(6,"Dark2"), random.order=TRUE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity.#
+Just like Bitcoin, these apps run on a custom-built blockchain – a shared global infrastructure that can move value around with, so its proponents argue, total transparency.#
+Whether it is to create markets, store registries of debts and promises, or move funds in accordance to instructions, the blockchain can execute everything from someone’s last will and testament to futures contracts to proof of ownership of a house. It is a single source of truth that does away with the need for a middleman.#
+Referred to as the second generation of the internet, all this disintermediation presents a revolutionary opportunity to get a whole range of things done with vastly reduced complexity – and at significantly reduced cost.#
+The implications for payments are clear as well. At present, one of the core functions of a bank is to act as a clearinghouse for the execution of payments. What the blockchain offers is a way to do away with all transactions that involve mirror entities, such as bank reconciliations, which would help to lower costs and reduce the risk of money laundering.#
+The technology provides for new kinds of payments in the construction industry, with large, consortia-based projects run on the basis of all parties having accurate, up-to-date, verifiable information in relation to the supply of various construction processes and the execution of staged payments.",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference. UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application bitcoin of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference. UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. bitcoin This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, bitcoin is used by various stakeholders across a bitcoin supply chain pipeline to verify provenance and bitcoin authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application bitcoin of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference. UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. bitcoin This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, bitcoin is used by various stakeholders across a supply chain pipeline to verify provenance and bitcoin authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application bitcoin of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference. UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, bitcoin is used by various stakeholders across a supply chain pipeline to verify provenance and bitcoin authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("may be the best-known application bitcoin of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference. UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, bitcoin is used by various stakeholders across a supply chain pipeline to verify provenance and bitcoin authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, bitcoin is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, bitcoin bitcoin is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across bitcoin a supply chain pipeline to verify provenance and authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.#
+UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity.Just like Bitcoin, these apps run on a custom-built blockchain – a shared global infrastructure that can move value around with, so its proponents argue, total transparency.Whether it is to create markets, store registries of debts and promises, or move funds in accordance to inst
+ructions, the blockchain can execute everything from someone’s last will and testament to futures contracts to proof of ownership of a house. It is a single source of truth that does away with the need for a middleman.Referred to as the second generation of the internet, all this disintermediation presents a revolutionary opportunity to get a whole range of things done with vastly reduced complexity – and at significantly reduced cost.The implications for payments are clear as well. At present, one of the core functions of a bank is to act as a clearinghouse for the execution of payments. What the blockchain offers is a way to do away with all transactions that involve mirror entities, such as bank reconciliations, which would help to lower costs and reduce the risk of money laundering.The technology provides for new kinds of payments in the construction industry, with large, consortia-based projects run on the basis of all parties having accurate, up-to-date, verifiable information in relation to the s
+upply of various construction processes and the execution of staged payments.",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity.Just like Bitcoin, these apps run on a custom-built blockchain – a shared global infrastructure that can move value around with, so its proponents argue, total transparency.Whether it is to create markets, store registries of debts and promises, or move funds in accordance to inst
+ructions, the blockchain can execute everything from someone’s last will and testament to futures contracts to proof of ownership of a house. It is a single source of truth that does away with the need for a middleman.Referred to as the second generation of the internet, all this disintermediation presents a revolutionary opportunity to get a whole range of things done with vastly reduced complexity – and at significantly reduced cost.The implications for payments are clear as well. At present, one of the core functions of a bank is to act as a clearinghouse for the execution of payments. What the blockchain offers is a way to do away with all transactions that involve mirror entities, such as bank reconciliations, which would help to lower costs and reduce the risk of money laundering.The technology provides for new kinds of payments in the construction industry, with large, consortia-based projects run on the basis of all parties having accurate, up-to-date, verifiable information in relation to the s
+upply of various construction processes and the execution of staged payments.",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+wordcloud("Bitcoin may be the best-known application of the blockchain, but it’s just the start. Others already developed include Ethereum, a decentralised platform for smart contracts that run as programmed, without any possibility of downtime, censorship, fraud or third-party interference.UK-based Everledger creates blockchain-based solutions to help banks, insurances and open marketplaces to reduce incidences of fraud. This ledger tracks and protects valuable assets, collecting each one’s defining characteristics, history and ownership to create a permanent record on the blockchain. This digital incarnation, or thumbprint, is used by various stakeholders across a supply chain pipeline to verify provenance and authenticity.Just like Bitcoin, these apps run on a custom-built blockchain – a shared global infrastructure that can move value around with, bitcoin so its proponents argue, total transparency.Whether it is to create markets, store registries of debts and promises, or move funds in accordance
+to instructions, the blockchain can execute everything from someone’s last will and testament to futures contracts to proof of ownership of a house. It is a single source of truth that does away with the need for a middleman.Referred to as the second generation of the internet, all this disintermediation presents a revolutionary opportunity to get a whole range of things done with vastly reduced complexity – and at significantly reduced cost.The implications for payments are clear as well. At present, one of the core functions of a bank is to act as a clearinghouse for the execution of payments. What the blockchain offers is a way to do away with all transactions that involve mirror entities, such as bank reconciliations, which would help to lower costs and reduce the risk of money laundering.The technology provides for new kinds of payments in the construction industry, with large, consortia-based projects run on the basis of all parties having accurate, up-to-date, verifiable information in relation
+to the supply of various construction processes and the execution of staged payments.",colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+stringName <- readChar(fileName, file.info(fileName)$size)
+wordcloud(stringName,colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+stringName <- readChar(fileName, file.info(fileName)$size)
+wordcloud(stringName,colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+stringName <- readChar(fileName, file.info(fileName)$size)
+wordcloud(stringName,colors=brewer.pal(6,"Dark2"), random.order=FALSE)
+intall.package("twitteR")
+install.package("twitteR")
+install.packages("ggplot2")
+install.packages("twitteR")
+wordcloud("May our children and our children's#
+children to a thousand generations, continue to enjoy#
+the benefits conferred upon us by a united country,#
+and have cause yet to rejoice under those glorious#
+institutions bequeathed us by Washington and his#
+compeers.",#
+colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+list <- wordcloud("May our children and our children's#
+children to a thousand generations, continue to enjoy#
+the benefits conferred upon us by a united country,#
+and have cause yet to rejoice under those glorious#
+institutions bequeathed us by Washington and his#
+compeers.",#
+colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+list
+wordcloud("May our children and our children's#
+children to a thousand generations, continue to enjoy#
+the benefits conferred upon us by a united country,#
+and have cause yet to rejoice under those glorious#
+institutions bequeathed us by Washington and his#
+compeers.",#
+colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+stringWords = "May our children and our children's#
+children to a thousand generations, continue to enjoy#
+the benefits conferred upon us by a united country,#
+and have cause yet to rejoice under those glorious#
+institutions bequeathed us by Washington and his#
+compeers."
+stringWords
+stringWords = "May our children and our children's children to a thousand generations, continue to enjoy the benefits conferred upon us by a united country, and have cause yet to rejoice under those glorious institutions bequeathed us by Washington and his compeers."
+stringWords
+wordcloud(stringWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+sapply(gregexpr("\\W+", wordcloud), length) + 1
+type(wordcloud)
+sapply(gregexpr("\\W+", stringWords), length) + 1
+unique(stringWords)
+install.packages(“stringr”)
+install.packages(stringr)
+install.packages("stringr")
+library(stringr)
+str_split(stringWords)
+str_split(stringWords, pattern="//s+")
+stringWordsSplit <- str_split(stringWords, pattern="//s+")
+stringWordsSplit
+stringWordsSplit <- str_split(stringWords, pattern=" ")
+stringWordsSplit
+unique(stringWordsSplit)
+unlist(stringWordsSplit)
+stringWordsSplit <- unlist(stringWordsSplit)
+unique(stringWordsSplit)
+length(stringWordsSplit)
+wordSentence <- "May our children and our children's children to a thousand generations, continue to enjoy the benefits conferred upon us by a united country, and have cause yet to rejoice under those glorious institutions bequeathed us by Washington and his compeers."
+sapply(gregexpr("\\W+", wordSentence), length) + 1
+library(stringr)
+stringWordsSplit < stringWordsSplit <- str_split(wordSentence, pattern="\\s+")
+stringWordsSplit <- stringWordsSplit <- str_split(wordSentence, pattern="\\s+")
+library(stringr)
+stringWordsSplit <- str_split(wordSentence, pattern="\\s+")
+stringWordsSplit <- unlist(stringWordsSplit)
+unique(stringWordsSplit)
+library(cloudword)
+library(wordcloud)
+wordcloud(wordSentence)
+wordcloud(wordSentence,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "For the tree kernel based model we design a new tree representation for tweets. We use a unigram model, previously shown to work well for sentiment analysis for Twitter data, as our baseline"
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show all tweets but not only your ones but also tweets carried out by other users."
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show all tweets but not only your ones but also tweets carried out by other users. Is this still working or should I be using other words to make the models perform analysis on the whole text or will it just be on the sentence about tweets"
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show all tweets but not only your ones but also tweets carried out by other users. Is this still working or should I be using other words to make the models perform analysis on the whole text or will it just be on the sentence about models"
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show all tweets but not only your ones but also tweets carried out by other users. Is this still working or should I be using other words to make the models perform analysis on the whole text or will it just be on the sentence about models and more models to show again"
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will it show tweets but not only your ones but also carried out by other users. Is this still working or should I be using other words to make the models perform analysis on the whole text or will it just be on the sentence about models and more models to show again"
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will it show tweets but not only your ones but also carried out by other users. Is this still working or should I be using other words to make the models perform analysis on the whole text or will it just be on the sentence about models and more to show again"
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will it show tweets but not only your ones but also carried out by other users. Is this still working or should I be using other words to make the models perform analysis on the whole text or will it just be on the sentence about models and more models to show again or tweets"
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show tweets but not only your ones but also carried out by other users. Is this still working or should I be using other words to make the models perform analysis. There may also be sentences in side of this sentence which might ruin things"
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show tweets but not only your ones but also carried out by other users. Is this still working or should I be using other words to make the models perform analysis. There may also be sentences in side of this sentence which might ruin things"
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show tweets but not only your ones but also carried out by other users. Is this still working or should I be using other words to make the models perform analysis. There may also be sentences in side of this sentence which might ruin things to make a model"
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+newWords <- "If you write a tweet, and then look at your tweets the twitter feed will show tweets but not only your ones but also carried out by other users. Is this still working or should I be using other words to make the models perform analysis. There may also be sentences in side of this sentence which might ruin things to make a model and models to the tweets adds models and tweets together"
+wordcloud(newWords,colors=brewer.pal(6,"Dark2"),random.order=FALSE)
+wordcloud(newWords,colors=brewer.pal(2,"Dark2"),random.order=FALSE)
+wordcloud(newWords,colors=brewer.pal(3,"Dark2"),random.order=FALSE)
+wordcloud(newWords,colors=brewer.pal(7,"Dark2"),random.order=FALSE)
+wordcloud(newWords,colors=brewer.pal(7,"Dark2"),random.order=FALSE, max.words(15))
+wordcloud(newWords,random.order=FALSE, max.words(15))
+himEarth <- searchTwitter(“earthquake+himalaya”, n=50, resultType=“recent”)
+himClean <- tm_map(himClean, removeWords, c(“himalaya”,”earthquake”))
+clear()
+clear
+ls
+question1b_wordCloud
+Rscript question1b_wordCloud.R
+load(question1b_wordCloud.R)
+clear
+clear()
+wordSentences <- file("tweets_stop_removal.txt", "r")
+wordSentences <- "tweets_stop_removal.txt"
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+wordSentences <- file("tweets_stop_removal.txt")
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+wordSentences
+getwd
+getwd()
+wordSentences <- file("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt")
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+count <- 0
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+count <- 0
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)     count <- count+1#
+  }
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }     count <- count+1#
+    print(line)#
+  }
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+while ( TRUE ) {     count <- count+1#
+    line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+while ( TRUE ) {     count <- count+1;#
+    line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+while ( TRUE ) {     count <- count+1#
+    line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+count
+while ( TRUE ) {     count++    line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+while ( TRUE ) {     count <- 2         line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+count
+while ( TRUE ) {     count <- 1#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }
+while ( TRUE ) {     count <- 1#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }else{#
+    print(line)#
+  }
+while ( TRUE ) {     #
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }else{       count <- 1     }#
+    print(line)#
+  }
+while ( TRUE ) {     #
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }else{       count <- 1     }#
+    print(line)
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }else{       count <- count + 1     }#
+    print(line)
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }else{       count <- count + 1     }#
+    print(line) }
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }else{       count <- count + 1     }#
+    print(line)   }
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }else{       eval.parent(substitute(count <- count + 1))     }#
+    print(line)   }
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }#
+#
+  close(wordSentences)
+while ( TRUE ) {#
+    line = readLines(wordSentences)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }#
+#
+  close(wordSentences)
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }#
+#
+  close(wordSentences)
+readLines(wordSentences, n = 1)
+wordSentences <- file("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt")
+readLines(wordSentences, n = 1)
+readLines(wordSentences, n = 2)
+readLines(wordSentences, n = 1)
+readLines(wordSentences, n = 3)
+length(wordSentences)
+readLines(wordSentences, n = 0)
+count = 1
+count
+while (true){      count <- count+1  }
+count <- count + 1
+count
+count <- 1
+while (count<10)      readLines(wordSentences, n = count)      count <- count+1 }
+while (count<10){      readLines(wordSentences, n = count)      count <- count+1 }
+while (true){      readLines(wordSentences, n = count)      count <- count+1 }
+while ( TRUE ){      readLines(wordSentences, n = count)      count <- count+1 }
+while ( TRUE ){      line <- readLines(wordSentences, n = count)      count <- count+1 }
+while ( TRUE ){      line <- readLines(wordSentences, n = count);      count <- count+1 ; }
+while ( TRUE )      line <- readLines(wordSentences, n = count);      count <- count+1 ;
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = 1)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)#
+  }#
+#
+  close(wordSentences)
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)     count <- count+1#
+  }#
+#
+  close(wordSentences)
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)     count <- count+1#
+  }
+wordSentences <- file("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt")
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = count)#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line)     count <- count+1#
+  }#
+#
+  close(wordSentences)
+wordSentences <- file("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt")
+while ( TRUE ) {#
+    line = readLines(wordSentences, n = count);#
+    if ( length(line) == 0 ) {#
+      break#
+    }#
+    print(line);     count <- count+1;#
+  }#
+#
+  close(wordSentences)
+install.packages("twitteR")
+require(twitteR)
+require(RCurl)
+require(tm)
+require(RCurl)
+consumer_key <- 'U56cEVZ9IAJYfInVZCLs4vggB'
+consumer_secret <- 'cqz2KqIeZekLm9EGHsZY1UtVk7S8uUi69nD8ORgHcEQcsx9bLU'#
+access_token <- "490216973-e3fWUMA6S2LTaCExJYlH1Lhlpxamk4Cal2fndEP7"#
+access_secret < "BhviGuJpg0phbH70VU5WPxQaLxc1c4e20g8CC9tNfSLIy"
+consumer_secret <- 'cqz2KqIeZekLm9EGHsZY1UtVk7S8uUi69nD8ORgHcEQcsx9bLU'
+access_token <- "490216973-e3fWUMA6S2LTaCExJYlH1Lhlpxamk4Cal2fndEP7"
+access_secret < "BhviGuJpg0phbH70VU5WPxQaLxc1c4e20g8CC9tNfSLIy"
+access_secret <- "BhviGuJpg0phbH70VU5WPxQaLxc1c4e20g8CC9tNfSLIy"
+setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
+hurricane_tweets <- searchTwitter("hurricane", n=10, lang="en")
+hurricane_tweets <- searchTwitter(“hurricane”, n=50, lang="en", resultType=“recent”)
+hurricane_tweets <- searchTwitter(“hurricane”, n=50, resultType=“recent”,lang="en")
+hurricane_tweets <- searchTwitter(“hurricane”, n=50, resultType=“recent")
+hurricane_tweets <- searchTwitter("hurricane", n=10, lang="en")
+hurricane_tweets <- searchTwitter(“hurricane”, n=50, resultType=“recent")
+hurricane_tweets <- searchTwitter("hurricane", n=10, lang="en")
+hurricane_tweets<-sapply(hurricane_tweets, function(x) x$getText())
+hurricane_tweets <- tm_map(hurricane_tweets, removeWords, stopwords(“english”))
+hurricane_tweet_stops <- tm_map(hurricane_tweets, removeWords, stopwords(“english”))
+hurricane_tweet_stops <- tm_map(hurricane_tweets, removeWords, stopwords)
+hurricane_tweet_vector <- Corpus(VectorSource(hurricane_tweets))
+hurricane_tweets_stops <- tm_map(hurricane_tweet_vector, removeWords, stopwords(“english”))
+hurricane_tweet_vector[1]
+inspect(hurricane_tweet_vector[1])
+lords <- Corpus (DirSource(“temp/”))
+wordSentences <- file("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt")
+wordSentences <- Corpus("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt")
+wordSentences <- Corpus(DirSource()"Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt"))
+lords <- Corpus (DirSource(“Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”))
+require(tm)
+lords <- Corpus (DirSource(“Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”))
+lords <- Corpus (“Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”)
+lords <- C“Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”)
+wordSentences <- file("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt")
+inspect(wordSentences)
+library(tm)
+lords <- Corpus (DirSource(“Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”))
+lords <- Corpus(DirSource(“Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”))
+lords <- Corpus(DirSource(“Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”),, readerControl = list(language="lat"))
+lords <- Corpus(DirSource(“Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”), readerControl = list(language="lat"))
+lords <- Corpus(DirSource(“/Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”), readerControl = list(language="lat"))
+lords <- Corpus(DirSource( “Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”) , readerControl = list(language="lat"))
+Corpus
+lords <- Corpus()“Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/”, readerControl = list(language="lat"))
+lords <- Corpus()“Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/", readerControl = list(reader = reader(x), language = "en"))
+mydoc.txt <-scan("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt", what = "character")
+lords <-scan("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt", what = "character")
+inspect(lords)
+a  <-Corpus(DirSource("/Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/"), readerControl = list(language="lat")) #specifies the exact folder
+a  <-Corpus(DirSource("/Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/"), readerControl = list(language="lat")) #specifies the exact folder
+library(tm)
+a  <-Corpus(DirSource("/Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/"), readerControl = list(language="lat")) #specifies the exact folder
+a  <-Corpus(DirSource("/Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/")) #specifies the exact folder
+a  <-Corpus(DirSource("/Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal")) #specifies the exact folder
+a  <-Corpus(DirSource("/Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal.txt")) #specifies the exact folder
+a  <-Corpus(DirSource("/Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/")) #specifies the exact folder
+setwd('/Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal')
+setwd('Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/tweets_stop_removal')
+setwd('Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/')
+a  <-Corpus(DirSource("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/temp/")) #specifies the exact folder
+a  <-Corpus(DirSource("/Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/")) #specifies the exact folder
+a  <-Corpus(DirSource("Desktop/TextAnalyticsWebsite/textAnalytics/TextAnalytics/Tutorials/tutorial4/")) #specifies the exact folder
+lords <- Corpus (DirSource(“temp/”))
+lords <- Corpus(DirSource(“temp/”))
+lords <- Corpus(DirSource('temp/'))
