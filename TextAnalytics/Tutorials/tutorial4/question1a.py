@@ -170,7 +170,22 @@ def text_file_of_idf_scores(tf_idf_dictionary):
 
 text_file_of_idf_scores(tf_idf_dictionary)
 
+import pickle
 
+def save_object_of_words(set_of_documnets, word_count_dict):
+    with open("all_documents.pickle", "wb") as file_pickle:
+        pickle.dump(set_of_documnets, file_pickle)
+
+    with open("word_count_dict.pickle", "wb") as file_pickle:
+        pickle.dump(word_count_dict, file_pickle)
+
+    with open("total_num_of_words.pickle", "wb") as file_pickle:
+        number_of_words = 0
+        for key, value in freq_term_dict.items():
+            number_of_words += value
+        pickle.dump(number_of_words, file_pickle)
+
+save_object_of_words(removed_stop_words_tweets, freq_term_dict)
 
 '''Once the file is saved into a json file, in this case python.json
 Then need to do processing on the tweets.'''
