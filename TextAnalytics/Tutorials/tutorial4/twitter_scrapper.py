@@ -156,8 +156,8 @@ def tf_idf_scores(number_of_appearence, number_of_documents, set_of_documents):
     tf_idf_dictionary = {}
     length_of_documents = len(set_of_documents)
     for key, value in number_of_appearence.items():
-        if value >= 3:
-            tf_idf_dictionary[key] = round(math.log(int(length_of_documents)/(int(number_of_documents[key])))*20)
+        # if value >= 3:
+        tf_idf_dictionary[key] = round(math.log(int(length_of_documents)/(int(number_of_documents[key])))*20)
     return tf_idf_dictionary
 tf_idf_dictionary = tf_idf_scores(freq_term_dict, dict_of_number_of_documents, removed_stop_words_tweets)
 print_sorted_dict(tf_idf_dictionary)

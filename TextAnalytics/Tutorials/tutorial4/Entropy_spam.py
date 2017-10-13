@@ -1,16 +1,16 @@
 import math
 import nltk
 
-spam = ["Ever iphone wondered how to join iphone run your own Twitter chat? Here are iphone some tips on how iphone to plan, promote, and execute.",
-        "Go beyond iphone join the conventional, iphone insane and dabbling. Here are 5 ways iphone to rethink how you do iphone analytics.",
-        "The future join  iphone of mixing & mastering is here. Get to know the new iphone Ozone iphone 8 & Neutron 2.",
-        "Get iphone the iphone most out of the latest iphone #MicrosoftEDU tools with videos, online demos, and iphone more from Back to School LIVE!",
-        "Two iphone investment iphone bank leaders discuss the future of investing. Learn more..",
-        "Today is join iphone the day! Learn from SAP Cloud Platform experts how to iphone accelerate in your build of cloud applications. #SCP",
-        "For iphone just €35 a month for the first 6 iphone months, sign iphone up to unlimited broadband and get iphone all this free ",
-        "Improve iphone the quality of care join in your iphone services with our Sit&See programme, a iphone primary preventative strategy.",
-        "Join us iphone iphone live from iphone the #wdayrising show floor iphone to hear about the iphone integration between Adobe Sign and",
-        "Join ODPi, Hortonworks iphone, join IBM & ING for iphone an iphone exploration of Data Governance iphone in this Linux Foundation iphone webinar!"]
+spam = ["Try out microsofts new online platform system.",
+        "Apply online now to our graduate program",
+        "Mark was an intern in 2015, and has never looked bask...Apply online, closing date end of November",
+        "Graduate positions in software development roles starting in June. Apply online before November",
+        "Join Microsoft today and be in with a chance of 100 euro... Sign up today online",
+        "Morgan Stanley, lots of IT graduate roles available, apply online before November",
+        "Try out JP. Morgans new online process system to apply for graduate and intern jobs",
+        "Applying to Microsoft graduate job has never been eaiser, visit and apply online before November",
+        "Graduate roles for Morgan Stanley to be online in November",
+        "Apply to Microsoft todday online."]
 
 
 random_tweets = [
@@ -29,8 +29,8 @@ from nltk.corpus import stopwords
 stop_words = stopwords.words('english')
 
 # Get rid of stop words
-spam = [word for word in spam if word not in stop_words]
-random_tweets = [word for word in random_tweets if word not in stop_words]
+spam = [word.lower() for word in spam if word not in stop_words]
+random_tweets = [word.lower() for word in random_tweets if word not in stop_words]
 
 def entropy(labels):
     arr = []
