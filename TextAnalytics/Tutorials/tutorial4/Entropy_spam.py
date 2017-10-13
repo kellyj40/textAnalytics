@@ -49,6 +49,7 @@ def entropy(labels):
 
     return -sum(p*math.log(p, 2) for p in prob)
 
+# Print results
 print("Spam tweets: " + str(entropy(spam)))
 print("Normal tweets: " + str(entropy(random_tweets)))
 mix_tweets = spam[:5] + random_tweets[5:]
