@@ -56,5 +56,3 @@ while count < len(base):
             print("Sentence "+dict_val[str(count)]+" and "+dict_val[str(innerCount)]+" resulted in: " + str(jaccardIndex(base[count], base[innerCount])))
         innerCount += 1
     count += 1
-
-
