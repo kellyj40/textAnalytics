@@ -190,3 +190,4 @@ def save_object_of_words(set_of_documnets, word_count_dict):
         pickle.dump(number_of_words, file_pickle)
 
 save_object_of_words(removed_stop_words_tweets, freq_term_dict)
+
