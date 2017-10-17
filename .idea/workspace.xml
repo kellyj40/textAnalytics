@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2062d3a1-13a3-4bce-8dec-af86e5eac60c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/generic_preprocessing_script.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/cosine_text_analytics.py" afterPath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/cosine_text_analytics.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/generic_preprocessing_script.py" afterPath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/generic_preprocessing_script.py" />
     </list>
     <ignored path="textAnalytics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,12 +23,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="jaccard.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/jaccard.py">
+      <file leaf-file-name="twitter_scrapper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial4/twitter_scrapper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="525">
+              <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="147" selection-end-column="38" />
+              <folding>
+                <marker date="1508245701000" expanded="true" signature="5669:5811" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,8 +38,8 @@
       <file leaf-file-name="generic_preprocessing_script.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/generic_preprocessing_script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="615">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="e#1#34#0" expanded="true" />
               </folding>
@@ -46,22 +47,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="question1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial2/question1.py">
+      <file leaf-file-name="cosine_text_analytics.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/cosine_text_analytics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Entropy_spam.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial4/Entropy_spam.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -190,7 +183,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial2" />
+              <option name="myItemId" value="tutorial5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textAnalytics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="textAnalytics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TextAnalytics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tutorials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -851,26 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial4/twitter_scrapper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="66" column="33" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
-          <folding>
-            <marker date="1508245701000" expanded="true" signature="5669:5811" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/cosine_text_analytics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="72" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/jaccard.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -913,10 +908,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/cosine_text_analytics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial4/twitter_scrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="147" selection-end-column="38" />
+          <folding>
+            <marker date="1508245701000" expanded="true" signature="5669:5811" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/generic_preprocessing_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="615">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
             <element signature="e#1#34#0" expanded="true" />
           </folding>
