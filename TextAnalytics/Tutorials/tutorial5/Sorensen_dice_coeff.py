@@ -1,9 +1,9 @@
 base = ["storm ophelia hits ireland and schools close",
         "hurricane ophelia hits ireland and schools close",
-        "hurricane ophelia misses england and work"]
-        # "hurricane ophelia hits cork and houses destroyed",
-        # "tornado sarah hits usa and colleges close",
-        # "there was a hurricane in Ireland today"]
+        "hurricane ophelia misses england and work",
+        "hurricane ophelia hits cork and houses destroyed",
+        "tornado sarah hits usa and colleges close",
+        "there was a hurricane in Ireland today"]
 
 
 
