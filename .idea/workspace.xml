@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2062d3a1-13a3-4bce-8dec-af86e5eac60c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/textAnalytics.iml" afterPath="$PROJECT_DIR$/.idea/textAnalytics.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15209904_kellyJoe_practical2.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15209904_kellyJoe_practical3.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Levenstein.py" afterPath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Levenstein.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/cosine_text_analytics.py" afterPath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/cosine_text_analytics.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/generic_preprocessing_script.py" afterPath="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/generic_preprocessing_script.py" />
     </list>
     <ignored path="textAnalytics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,11 +52,31 @@
       <file leaf-file-name="cosine_text_analytics.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/cosine_text_analytics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state relative-caret-position="1065">
+              <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Euclidean_distance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Euclidean_distance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
               <folding>
-                <element signature="e#0#33#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jaccard.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/jaccard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,9 +84,11 @@
       <file leaf-file-name="Levenstein.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Levenstein.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1080">
+              <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+              <folding>
+                <element signature="e#53#72#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,15 +126,18 @@
         <option value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/jaccard.py" />
         <option value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/dice.py" />
         <option value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Sorensen_dice_coeff.py" />
-        <option value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Levenstein.py" />
         <option value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/generic_preprocessing_script.py" />
         <option value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/cosine_text_analytics.py" />
+        <option value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Levenstein.py" />
+        <option value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Euclidean_distance.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="768" />
+    <option name="x" value="582" />
+    <option name="y" value="23" />
+    <option name="width" value="784" />
+    <option name="height" value="677" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -199,28 +224,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="textAnalytics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="textAnalytics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TextAnalytics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -229,7 +232,6 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -241,24 +243,7 @@
       <recent name="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial4/temp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cosine_text_analytics">
-    <configuration default="false" name="jaccard" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="textAnalytics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/jaccard.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Levenstein">
     <configuration default="false" name="Sorensen_dice_coeff" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,6 +308,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="textAnalytics" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Levenstein.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Euclidean_distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="textAnalytics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Euclidean_distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -462,19 +464,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.jaccard" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Sorensen_dice_coeff" />
-      <item index="2" class="java.lang.String" itemvalue="Python.question1 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.cosine_text_analytics" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Levenstein" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Sorensen_dice_coeff" />
+      <item index="1" class="java.lang.String" itemvalue="Python.question1 (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.cosine_text_analytics" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Levenstein" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Euclidean_distance" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.cosine_text_analytics" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Levenstein" />
-        <item index="2" class="java.lang.String" itemvalue="Python.question1 (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Sorensen_dice_coeff" />
-        <item index="4" class="java.lang.String" itemvalue="Python.jaccard" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Levenstein" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Euclidean_distance" />
+        <item index="2" class="java.lang.String" itemvalue="Python.cosine_text_analytics" />
+        <item index="3" class="java.lang.String" itemvalue="Python.question1 (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Sorensen_dice_coeff" />
       </list>
     </recent_temporary>
   </component>
@@ -492,15 +494,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <frame x="582" y="23" width="784" height="677" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18215613" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32110092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3939828" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21367522" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4398682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -530,29 +532,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial2/wordCounter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial2/question1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial2/question2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial2/nltk_file.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -868,14 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/jaccard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial2/question2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -930,21 +901,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="268" column="0" selection-start-line="268" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/mpl_toolkits/mplot3d/axes3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="2331" column="0" selection-start-line="2331" selection-start-column="0" selection-end-line="2331" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Levenstein.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="1080">
+          <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+          <folding>
+            <element signature="e#53#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/jaccard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/Euclidean_distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TextAnalytics/Tutorials/tutorial5/cosine_text_analytics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1065">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
